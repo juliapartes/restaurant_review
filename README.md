@@ -9,3 +9,4 @@
 ## References
 * Starter code repository: https://github.com/udacity/mws-restaurant-stage-1
 * Many thanks to MOHAMED RIAAD https://www.youtube.com/watch?v=jsGs9z7TuyY&feature=youtu.be for his time, and helping in understanding the serviceWorker!
+* serviceWorker https://developers.google.com/web/fundamentals/primers/service-workers/
